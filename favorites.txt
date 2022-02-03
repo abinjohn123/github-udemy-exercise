@@ -1,3 +1,6 @@
 Burger
 Biriyani
 Fried Chicken
+Movie 1
+Movie 2
+Movie 3
